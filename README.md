@@ -1,4 +1,4 @@
-# Восстановление полей течения Тейлора–Грина по неполным/зашумлённым данным с использованием physics-informed обучения
+# Восстановление решений уравнений Навье-Стокса методом физически-информированного обучения с избыточными физическими ограничениями
 
 **Short description (EN):** Reproducible notebooks, datasets and pretrained checkpoints for reconstructing 2D Taylor–Green flow fields from sparse/noisy observations using physics-informed training. Includes data for 32×32, 64×64, 128×128 grids and the accompanying paper.
 
